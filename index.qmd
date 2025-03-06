@@ -12,7 +12,7 @@ In this workshop we will learn ggplot2, a powerful R package for visualization.
 
 ### Workshop Materials
 
--   [Slide](r_visualization.pdf)
+-   [Slides](r_visualization.pdf)
 -   Notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-visualization-2025-winter/blob/master/docs/R_visualization.ipynb)
 -   Reading: Section [Visualize](https://r4ds.hadley.nz/visualize) (Chapter 10, 11, and 12) in [R for Data Science (2e)](https://r4ds.hadley.nz/)
 
