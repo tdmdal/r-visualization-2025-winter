@@ -1,0 +1,36 @@
+---
+title: "R Intro - Visualization with ggplot2 (Winter 2025)"
+---
+
+R is an open-source programming language for statistical computing and graphics. R is extensible, and has a large collection of high-quality user contributed packages that provides easy tools for common data analysis tasks.
+
+In this workshop we will learn ggplot2, a powerful R package for visualization.
+
+> "ggplot2 is a system for declaratively creating graphics, based on [The Grammar of Graphics](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/ref=as_li_ss_tl). You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details." -- [ggplot2 document](https://ggplot2.tidyverse.org/index.html)
+
+------------------------------------------------------------------------
+
+### Workshop Materials
+
+-   [Slide](r_visualization.pdf)
+-   Notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-visualization-2025-winter/blob/master/docs/R_visualization.ipynb)
+-   Reading: Section [Visualize](https://r4ds.hadley.nz/visualize) (Chapter 10, 11, and 12) in [R for Data Science (2e)](https://r4ds.hadley.nz/)
+
+------------------------------------------------------------------------
+
+### Resources
+
+-   Learning
+    -   [R Graphics Cookbook](https://r-graphics.org/)
+    -   [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+    -   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (visualization theory but R code available [here](https://github.com/clauswilke/dataviz))
+    -   [The R Graph Gallery](https://www.r-graph-gallery.com/)
+    -   [ggplot2 Cheat Sheets](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
+-   Inspiration
+    -   Tanya Shapiro's [github gallery](https://github.com/tashapiro), [site](https://indievisual.tech/), and [talks](https://indievisual.tech/talks)
+    -   [Fronkonstin](https://fronkonstin.com/tag/ggplot2/)
+    -   [Data Imaginist](https://thomaslinpedersen.art/work/#category=R)
+
+------------------------------------------------------------------------
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
